@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567104942625",
+    "firebase_url": "https://frasesmadeinspain-b652f.firebaseio.com",
+    "project_id": "frasesmadeinspain-b652f",
+    "storage_bucket": "frasesmadeinspain-b652f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567104942625:android:18f85de4654a554a17a960",
+        "android_client_info": {
+          "package_name": "com.example.frasesmadeinspain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567104942625-b1bbggqfl7fjfvnepci5lh9vib30f1kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frasesmadeinspain",
+            "certificate_hash": "ae865758c7292a21952c6290d47f9ceb4766bf33"
+          }
+        },
+        {
+          "client_id": "567104942625-n9qiiqv4l9rfgbukdttcb3n4ia0rt57u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB919teL6mKXwdh6b9U6veSWWl8QkrdoEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567104942625-n9qiiqv4l9rfgbukdttcb3n4ia0rt57u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
